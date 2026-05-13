@@ -1,0 +1,49 @@
+{
+  "businessName": "SEMMYLININGS",
+  "industry": "Fashion and Creative Design",
+  "tone": "creative and stylish",
+  "tagline": "Where Fashion Meets Creativity",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "SEMMYLININGS - Where Fashion Meets Creativity. Experience bespoke fashion design and creative styling that brings your vision to life. From custom tailoring to unique fashion pieces, we transform fabric into art. Located in Karu, serving clients across Abuja and beyond.",
+      "imagePrompt": "A vibrant Nigerian fashion studio interior with colorful African fabrics draped elegantly, modern sewing machines, dress forms displaying contemporary African-inspired designs, bright natural lighting streaming through large windows, professional yet warm atmosphere, fashion sketches on walls, rolls of premium fabric in the background, shot with high-end photography, photorealistic, 8k quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "SEMMYLININGS is your premier destination for fashion and creative design in Karu, Nigeria. We specialize in bringing your fashion dreams to reality through expert tailoring, bespoke designs, and creative styling solutions. Our team combines traditional craftsmanship with contemporary design trends to create pieces that reflect your unique personality and style. Whether you need custom outfits for special occasions, professional attire, or everyday wear with a creative twist, we deliver excellence in every stitch. At SEMMYLININGS, we believe that fashion is more than clothing—it's self-expression, confidence, and art.",
+      "imagePrompt": "A skilled Nigerian fashion designer measuring fabric on a client in a modern, well-lit studio, colorful fabric swatches and design mood boards visible in background, professional measuring tape and tailor's tools, warm and inviting atmosphere, diverse African print fabrics displayed on shelves, photorealistic detail, natural lighting, professional photography style",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Tailoring & Alterations - Perfect fit guaranteed for all body types. From wedding attire to corporate wear, we ensure every garment fits like it was made for you—because it is.\n\nBespoke Fashion Design - Bring your vision to life with our creative design services. We work with you from concept to completion, creating unique pieces that stand out.\n\nCreative Styling & Consultation - Not sure what works for you? Our styling experts provide personalized fashion advice, helping you discover looks that enhance your natural beauty and confidence.\n\nSpecial Occasion Outfits - Make your moments memorable with stunning custom designs for weddings, traditional ceremonies, parties, and corporate events.\n\nFabric Sourcing & Selection - Access to premium fabrics including African prints, lace, silk, and contemporary materials. We help you choose the perfect fabric for your design.\n\nFashion Accessories Design - Complete your look with custom-made accessories including bags, headpieces, and jewelry that complement your outfit perfectly.",
+      "imagePrompt": "A beautifully organized fashion services showcase featuring various Nigerian traditional and modern outfits on mannequins, including aso-ebi, corporate wear, and contemporary African fashion, elegant lighting highlighting fabric textures, professional studio setting with fashion accessories displayed, colorful yet sophisticated, magazine-quality photography, ultra-realistic, high resolution",
+      "layout": "grid"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Clients Say",
+      "copy": "\"SEMMYLININGS created the most beautiful wedding outfit for me. The attention to detail was exceptional, and I received so many compliments. Highly recommended!\" - Blessing O., Abuja\n\n\"I've been searching for a fashion designer who truly understands my style. SEMMYLININGS delivered beyond my expectations. Their creative designs are unmatched.\" - Chidi A., Karu\n\n\"Professional, creative, and reliable. They transformed my ideas into reality. The quality of their work is outstanding.\" - Amina S., Mararaba\n\n\"From consultation to final fitting, the experience was seamless. SEMMYLININGS is now my go-to for all fashion needs.\" - David M., Nyanya",
+      "imagePrompt": "Happy Nigerian clients wearing beautifully tailored outfits, smiling and confident, diverse ages and styles, modern Nigerian urban setting, professional portrait photography style, warm natural lighting, authentic and relatable atmosphere, high-quality fashion photography, photorealistic, vibrant colors",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to transform your wardrobe? Visit us or get in touch today.\n\nLocation: Aerotech Plaza, beside Optimum Filling Station, Mararaba Aso B Road, Karu, Nigeria\n\nPhone: 0703 983 1318\n\nWhatsApp: Chat with us instantly for quick inquiries and appointments\n\nOpening Hours:\nMonday - Saturday: 9:00 AM - 6:00 PM\nSunday: By Appointment Only\n\nWe're conveniently located in Karu, easily accessible from Mararaba, Nyanya, and other parts of Abuja. Visit our studio to explore fabric options, discuss your design ideas, and experience the SEMMYLININGS difference. Walk-ins welcome, but appointments are recommended for personalized consultations.",
+      "imagePrompt": "A welcoming Nigerian fashion boutique storefront with clear signage, Aerotech Plaza building exterior, modern and inviting entrance, African aesthetic elements, daytime lighting, customers walking in, professional commercial photography, realistic street view of Karu area, clean and attractive business location, photorealistic, high detail",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "0703 983 1318",
+    "email": "",
+    "address": "Aerotech Plaza, beside Optimum Filling Station, Mararaba Aso B Road, Karu, Nigeria",
+    "whatsapp": "https://wa.me/2347039831318"
+  }
+}
